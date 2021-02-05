@@ -1,6 +1,6 @@
-# Author: Mustafa Yagcioglu
-# Author email: yagciogluengieering@gmail.com
-# Coding date:  jan 2021
+Author: Mustafa Yagcioglu
+Author email: yagciogluengieering@gmail.com
+Coding date:  jan 2021
 
 *******************************************************************************
 Change Log
